@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Featured Page Blocks
+Plugin Name: Featured Page Blocks Section by RMcC
 Plugin URI: #
 Description: Adds 3 featured page blocks section via shortcode [featured_blocks_build]
 Version: 1.0.0
