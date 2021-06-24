@@ -12,7 +12,7 @@ class FeaturedPageBlocks extends Timber {
     add_filter('timber/context', array($this, 'add_to_context'));
     
     // shortcode for the markup
-    add_shortcode('featured_blocks_build', 'featured_blocks_build'); // see inc/functions.php
+    add_shortcode('featured_page_blocks_section', 'featured_page_blocks_section'); // see inc/functions.php
     
     // enqueue plugin assets
     // add_action('wp_enqueue_scripts', array($this, 'featured_page_blocks_assets'));
@@ -26,7 +26,9 @@ class FeaturedPageBlocks extends Timber {
   }
   
   public function add_to_twig($twig) { 
-    $twig->addExtension(new \Twig_Extension_StringLoader());
+    if(!class_exists('Twig_Extension_StringLoader')){
+      $twig->addExtension(new Twig_Extension_StringLoader());
+    }
     return $twig;
   }
 

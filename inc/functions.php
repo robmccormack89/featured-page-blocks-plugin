@@ -1,6 +1,6 @@
 <?php
 
-function featured_blocks_build() {
+function featured_page_blocks_section() {
   
   // if timber::locations is empty (another plugin hasn't already added to it), make it an array
   if(!Timber::$locations) Timber::$locations = array();
@@ -13,5 +13,6 @@ function featured_blocks_build() {
   
   $context = Timber::context();
   
-  Timber::render('featured-page-blocks.twig', $context);
+  $out = Timber::compile('featured-page-blocks.twig', $context);
+  return $out;
 }
