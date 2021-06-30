@@ -2,7 +2,7 @@
 /*
 Plugin Name: Featured Page Blocks Section by RMcC
 Plugin URI: #
-Description: Adds 3 featured page blocks section via shortcode [featured_page_blocks_section]
+Description: Add a featured blocks section to a page using the [featured_page_blocks_section] shortcode. Ideal for the Homepage. This plugin is translation-ready.
 Version: 1.0.0
 Author: robmccormack89
 Author URI: #
