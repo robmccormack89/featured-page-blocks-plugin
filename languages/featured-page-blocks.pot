@@ -18,27 +18,27 @@ msgctxt "One - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:8
+#: views/temp/featured-page-blocks.php:7
 msgctxt "One - img link"
-msgid "https://picsum.photos/720/500?random=1"
+msgid "https://picsum.photos/600/500?random=3"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:12
+#: views/temp/featured-page-blocks.php:10
 msgctxt "One - title"
 msgid "Item"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:18
+#: views/temp/featured-page-blocks.php:16
 msgctxt "Two - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:22
+#: views/temp/featured-page-blocks.php:19
 msgctxt "Two - img link"
-msgid "https://picsum.photos/720/500?random=2"
+msgid "https://picsum.photos/600/500?random=4"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:26
+#: views/temp/featured-page-blocks.php:22
 msgctxt "Two - title"
 msgid "Item"
 msgstr ""
