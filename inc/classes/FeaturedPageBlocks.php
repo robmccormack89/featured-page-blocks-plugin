@@ -33,6 +33,20 @@ class FeaturedPageBlocks extends Timber {
       'featured-page-blocks',
       FEATURED_PAGE_BLOCKS_URL . 'public/css/featured-page-blocks.css'
     );
+    wp_enqueue_script(
+      'uikit',
+      'https://cdn.jsdelivr.net/npm/uikit@3.15.24/dist/js/uikit.min.js',
+      array(),
+      '3.15.24',
+      false
+    );
+    wp_enqueue_script(
+      'uikit-icons',
+      'https://cdn.jsdelivr.net/npm/uikit@3.15.24/dist/js/uikit-icons.min.js',
+      array(),
+      '3.15.24',
+      false
+    );
   }
   
   public function add_to_twig($twig) { 

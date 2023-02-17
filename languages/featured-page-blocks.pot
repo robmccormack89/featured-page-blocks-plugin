@@ -1,4 +1,4 @@
-# Copyright (C) 2021 featured-page-blocks
+# Copyright (C) 2023 featured-page-blocks
 # This file is distributed under the same license as the featured-page-blocks package.
 msgid ""
 msgstr ""
@@ -13,47 +13,32 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: views/temp/featured-page-blocks.php:3
-msgctxt "Block 1 url"
+#: views/temp/featured-page-blocks.php:4
+msgctxt "One - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:9
-msgctxt "Block 1 background image url"
+#: views/temp/featured-page-blocks.php:8
+msgctxt "One - img link"
 msgid "https://picsum.photos/720/500?random=1"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:13
-msgctxt "Block 1 link text"
-msgid "How to Play"
+#: views/temp/featured-page-blocks.php:12
+msgctxt "One - title"
+msgid "Item"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:20
-msgctxt "Block 2 url"
+#: views/temp/featured-page-blocks.php:18
+msgctxt "Two - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:26
-msgctxt "Block 2 background image url"
+#: views/temp/featured-page-blocks.php:22
+msgctxt "Two - img link"
 msgid "https://picsum.photos/720/500?random=2"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:30
-msgctxt "Block 2 link text"
-msgid "FAQs"
-msgstr ""
-
-#: views/temp/featured-page-blocks.php:37
-msgctxt "Block 3 url"
-msgid "#"
-msgstr ""
-
-#: views/temp/featured-page-blocks.php:43
-msgctxt "Block 3 background image url"
-msgid "https://picsum.photos/720/500?random=3"
-msgstr ""
-
-#: views/temp/featured-page-blocks.php:47
-msgctxt "Block 3 link text"
-msgid "About us"
+#: views/temp/featured-page-blocks.php:26
+msgctxt "Two - title"
+msgid "Item"
 msgstr ""
