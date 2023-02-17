@@ -23,6 +23,11 @@ msgctxt "One - img link"
 msgid "https://picsum.photos/600/500?random=3"
 msgstr ""
 
+#: views/temp/featured-page-blocks.php:7
+msgctxt "One - img alt text"
+msgid "Image by Lorem Picsum"
+msgstr ""
+
 #: views/temp/featured-page-blocks.php:10
 msgctxt "One - title"
 msgid "Item"
@@ -36,6 +41,11 @@ msgstr ""
 #: views/temp/featured-page-blocks.php:19
 msgctxt "Two - img link"
 msgid "https://picsum.photos/600/500?random=4"
+msgstr ""
+
+#: views/temp/featured-page-blocks.php:19
+msgctxt "Two - img alt text"
+msgid "Image by Lorem Picsum"
 msgstr ""
 
 #: views/temp/featured-page-blocks.php:22
