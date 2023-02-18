@@ -16,21 +16,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-04 11:35+0000\n"
-"PO-Revision-Date: 2023-02-18 01:27+0000\n"
+"PO-Revision-Date: 2023-02-17 18:01+0000\n"
 "Last-Translator: \n"
 "Language-Team: English (UK)\n"
 "Language: en_GB\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.5.5; wp-5.8.2"
 
-#: views/temp/featured-page-blocks.php:7
-msgctxt "One - img alt text"
-msgid "Image by Lorem Picsum"
-msgstr ""
-
-#: views/temp/featured-page-blocks.php:7
+#: views/temp/featured-page-blocks.php:8
 msgctxt "One - img link"
-msgid "https://picsum.photos/600/500?random=3"
+msgid "https://picsum.photos/720/500?random=1"
 msgstr ""
 
 #: views/temp/featured-page-blocks.php:4
@@ -38,27 +33,22 @@ msgctxt "One - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:10
+#: views/temp/featured-page-blocks.php:12
 msgctxt "One - title"
 msgid "Item"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:19
-msgctxt "Two - img alt text"
-msgid "Image by Lorem Picsum"
-msgstr ""
-
-#: views/temp/featured-page-blocks.php:19
+#: views/temp/featured-page-blocks.php:22
 msgctxt "Two - img link"
-msgid "https://picsum.photos/600/500?random=4"
+msgid "https://picsum.photos/720/500?random=2"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:16
+#: views/temp/featured-page-blocks.php:18
 msgctxt "Two - link"
 msgid "#"
 msgstr ""
 
-#: views/temp/featured-page-blocks.php:22
+#: views/temp/featured-page-blocks.php:26
 msgctxt "Two - title"
 msgid "Item"
 msgstr ""
